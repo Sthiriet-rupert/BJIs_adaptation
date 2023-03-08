@@ -1,5 +1,0 @@
-Strain	Mean	SD
-I2	0.15775	0.0312
-R2	1	0
-I2∆afaBCDE	0.604	0.1859
-I2∆yadA-like	0.5890	0.1303
