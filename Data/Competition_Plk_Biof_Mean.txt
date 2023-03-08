@@ -1,0 +1,7 @@
+Competition	Mean	SD	Condition
+R1 vs I1	1.09	0.06	Planktonic
+R3 vs I3	0.96	0.03	Planktonic
+R2 vs I2	1.43	0.13	Planktonic
+R1 vs I1	1.00	0.05	Biofilm
+R3 vs I3	0.97	0.02	Biofilm
+R2 vs I2	1.09	0.09	Biofilm
