@@ -1,5 +1,5 @@
 
-Data used in the paper **Thiriet-Rupert et al., 2023, Analysis of In-Patient Evolution of Escherichia coli Reveals Potential Links to Relapse of Bone and Joint Infections, Journal of Infectious Deseases.**
+Data used in the paper **Thiriet-Rupert et al., 2023, Analysis of In-Patient Evolution of Escherichia coli Reveals Potential Links to Relapse of Bone and Joint Infections, Journal of Infectious Diseases.**
 
 *BJI_Relapse.R* contains the R code used to produce all figures of the paper from the *Data/* folder.
 
